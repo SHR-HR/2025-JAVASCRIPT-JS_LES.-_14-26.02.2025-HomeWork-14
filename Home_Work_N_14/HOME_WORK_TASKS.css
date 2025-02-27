@@ -12,6 +12,7 @@ body {
     height: 100vh;
 }
 
+
 /* 🔹 Контейнер */
 .container {
     max-width: 600px;
@@ -21,11 +22,13 @@ body {
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
 }
 
+
 /* 🔹 Заголовок */
 h1 {
     font-size: 22px;
     text-align: center;
 }
+
 
 /* 🔹 Разделы */
 .section {
@@ -35,6 +38,7 @@ h1 {
     margin: 20px 0;
 }
 
+
 /* 🔹 Группировка кнопок */
 .button-group {
     display: flex;
@@ -42,6 +46,7 @@ h1 {
     gap: 10px;
     flex-wrap: wrap;
 }
+
 
 /* 🔹 Поля ввода */
 input {
@@ -53,6 +58,7 @@ input {
     margin: 5px 0;
     text-align: center;
 }
+
 
 /* 🔹 Кнопка */
 button {
@@ -70,3 +76,4 @@ button:hover {
     background: #ff4500;
     transform: scale(1.05);
 }
+
